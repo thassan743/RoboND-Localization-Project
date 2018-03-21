@@ -100,11 +100,11 @@
   <gazebo reference="mount">
     <material>Gazebo/Orange</material>
   </gazebo>
-
+<!--
   <gazebo reference="caster">
     <material>Gazebo/Grey</material>
   </gazebo>
-
+-->
   <gazebo reference="left_wheel">
     <material>Gazebo/Black</material>
   </gazebo>
